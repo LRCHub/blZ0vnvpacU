@@ -1,4 +1,4 @@
-# Aqu3ra – 透明なパレット (self cover)
+# Aqu3ra – 透明なパレット (selfcover)
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
